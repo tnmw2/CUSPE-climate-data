@@ -2,6 +2,7 @@
 A repo for work on a CUSPE Climate Project, 2022
 
 Authors:
+
 Adriana Fonseca
 Ava Lage
 Jacqueline von Seth
