@@ -9,4 +9,4 @@ Jacqueline von Seth,
 Joonatan Laulainen,
 Robert Peacock,
 Ruth Faherty,
-Timothy Wallis
+Tim Wallis
