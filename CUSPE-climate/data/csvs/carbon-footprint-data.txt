@@ -1,0 +1,105 @@
+Scope	Category	Sub-category	Activity / aspect	Data	 2020-21 Value 	Unit	2020 Carbon conversion factor (to convert to kg CO2e) (see Notes)	 Gross Carbon Footprint (tonnes CO2e) 	Data source	Data owner	Current status
+1	Buildings & utilities	Gas	Gas - CCC sites	Gas purchased for CCC buildings	" 6,357,552 "	kWh (Gross CV)	  0.18387	" 1,168.96 "	Energy data	EIU	Got
+1	Buildings & utilities	Oil	Oil (heating oil) - CCC sites	Oil purchased for CCC buildings	" 248,635 "	kWh (Gross CV)	  0.24666	 61.33 	Energy data	Property	Got
+1	Buildings & utilities	Diesel	Diesel (for generators)	Diesel purchased for generators at CCC buildings		litres	  2.54603	 -   	Invoices?	Property	Missing
+1	Buildings & utilities	Refrigerant gases	Refrigerant gases: R32 air con	Top up gases for air con units - gas R32	 -   	kg	675	 -   	Air con service reports	Property	Estimated
+1	Buildings & utilities	Refrigerant gases	Refrigerant gases: R407C air con	Top up gases for air con units - gas R407C	 -   	kg	1774	 -   	Air con service reports	Property	Estimated
+1	Buildings & utilities	Refrigerant gases	Refrigerant gases: R410A air con	Top up gases for air con units - gas R410A	 11 	kg	2088	 23.55 	Air con service reports	Property	Estimated
+1	Transport	Business travel	"Passenger vehicles (pool cars - small car, petrol)"	Miles travelled (only for vehicles where fuel consumption not known)	" 11,396 "	miles	  0.23877 	 2.72 	Pool cars MI reports from Enterprise	Property	Got
+1	Transport	Business travel	"Passenger vehicles (pool cars -small car, hybrid)"	Miles travelled (only for vehicles where fuel consumption not known)	 640 	miles	  0.16538 	 0.11 	Pool cars MI reports from Enterprise	Property	Got
+1	Transport	Social and education transport	Passenger vehicles: social and educational transport fleet - diesel	fuel used by passenger transport / minibuses (diesel)	" 13,398 "	litres	  2.54603	 34.11 		Social & Education Transport	Got
+1	Transport	Business travel	Fuel purchased on fuelcards for all other fleet vehicles - diesel	Diesel	" 46,239 "	litres	  2.54603	 117.73 	Fuelcard reports	Property	Got
+1	Transport	Business travel	Fuel purchased on fuelcards for all other fleet vehicles - petrol	Petrol purchased on fuelcards	 410 	litres	  2.16802	 0.89 	Fuelcard reports	Property	Got
+1	Transport	Highways	Highways maintenance vehicles + Gritting fleet. Diesel	Diesel Fuel purchased + fuel withdrawn from bulk tanks	" 103,530 "	litres	  2.54603	 263.59 	Milestone report	Highways	Got
+1	Transport	Highways	Highways maintenance vehicles + Gritting fleet. Red diesel	Red diesel	" 54,801 "	litres	  2.75776	 151.13 	Milestone report	Highways	Got
+1	Transport	Highways	Highways maintenance vehicles + Gritting fleet. HVO	HVO biofuel	" 76,894 "	litres	  0.16580	 12.75 	Milestone report	Highways	Got
+1	Transport	Highways	Highways maintenance vehicles using petrol	Petrol purchased on fuelcards	" 3,450 "	litres	  2.16802	 7.48 	Milestone report	Highways	Got
+2	Buildings & utilities	Electricity for buildings	Electricity	Electricity purchased for CCC buildings etc	" 7,929,179 "	kWh	  0.23314 	" 1,848.61 "	Energy data	EIU	Got
+2	Buildings & utilities	Electricity for street lighting	Electricity	Electricity purchased for streetlighting 	" 10,892,010 "	kWh	  0.23314 	" 2,539.36 "	Energy data	EIU	Got
+3	Schools (maintained)	Schools gas	Gas - Cambridgeshire schools		" 21,486,150 "	kWh (Gross CV)	  0.18387	" 3,950.66 "	Energy data	EIU	Got
+3	Schools (maintained)	Schools oil	Burning oil for Cambs maintained schools	Oil data provided by schools	" 259,828 "	litres	  2.54039	 660.06 	schools	Schools	Got
+3	Schools (maintained)	Schools other heating fuels	LPG (aka Propane gas) for Cambs maintained schools	Data provided by schools	"46,247.00"	litres	  1.55537	 71.93 	schools	Schools	Got
+3	Schools (maintained)	Schools other heating fuels	Gas oil (AKA red diesel)	Data provided by schools	" 12,145 "	litres	  2.75776	 33.49 	schools	Schools	Got
+3	Schools (maintained)	Schools electricity	Electricity - Cambridgeshire schools	kWh of electricity used by schools	" 7,434,128 "	kWh	  0.23314 	" 1,733.19 "	Energy data	EIU	Got
+3	Buildings & utilities	Gas	WTT - gas	Gas purchased for CCC buildings	" 6,357,552 "	kWh (Gross CV)	  0.02391	 152.01 	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Oil	WTT - oil	Oil purchased for CCC buildings	" 248,635 "	kWh (Gross CV)	  0.0513 	 12.75 	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Diesel	WTT - diesel	Diesel purchased for generators at CCC buildings	 -   	litres	  0.61015	 -   	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Electricity for buildings	Elec T&D	Electricity purchased for CCC buildings etc	" 7,929,179 "	kWh	0.02005	 158.98 	same as elec data	n/a	Got
+3	Buildings & utilities	Electricity for street lighting	Elec T&D	Electricity purchased for streetlighting 	" 10,892,010 "	kWh	0.02005	 218.38 	same as elec data	n/a	Got
+3	Buildings & utilities	Electricity for buildings	WTT - elec	Electricity purchased for CCC buildings etc	" 7,929,179 "	kWh	  0.03217 	 255.08 	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Electricity for street lighting	WTT - elec	Electricity purchased for streetlighting 	" 10,892,010 "	kWh	  0.03217 	 350.40 	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Electricity for buildings	WTT - elec T&D	Electricity purchased for CCC buildings etc	" 7,929,179 "	kWh	  0.00277 	 21.96 	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Electricity for street lighting	WTT - elec T&D	Electricity purchased for streetlighting 	" 10,892,010 "	kWh	  0.00277 	 30.17 	same as data that WTT relates to	n/a	Got
+3	Buildings & utilities	Water and sewerage	Water supply (August 2020 to March 2021)	Volume of water purchased for CCC buildings (excl farms)	" 73,064 "	cubic metres	  0.344   	 25.13 	Water bills	EIU / Property	Got
+3	Buildings & utilities	Water and sewerage	Wastewater treatment (August 2020 to March 2021)	Wastewater disposed from CCC buildings to sewers and drains	" 29,195 "	cubic metres	  0.708      	 20.67 	Water bills	EIU / Property	Got
+3	Schools (maintained)	Schools gas	WTT gas for schools	Schools gas use	" 21,486,150 "	kWh (Gross CV)	  0.02391	 513.73 	same as data that WTT relates to	n/a	Got
+3	Schools (maintained)	Schools other heating fuels	WTT LPG for schools		" 46,247 "	litres	  0.19018	 8.80 	same as data that WTT relates to	n/a	Got
+3	Schools (maintained)	Schools oil	WTT oil for maintained schools	Oil data provided by schools	" 259,828 "	litres	  0.52835	 137.28 	same as data that WTT relates to	n/a	Got
+3	Schools (maintained)	Schools other heating fuels	WTT for gas oil (red diesel)		" 12,145 "	litres	  0.63253	 7.68 	same as data that WTT relates to	n/a	Got
+3	Schools (maintained)	Schools electricity	WTT for schools electricity	kWh of electricity used by schools	" 7,434,128 "	kWh	  0.03494 	 259.75 	same as data that WTT relates to	n/a	Got
+3	Schools (maintained)	Schools electricity	T&D for schools electricity	kWh of electricity used by schools	" 7,434,128 "	kWh	  0.00277 	 20.59 	Energy data	EIU	Got
+3	Transport	Business travel	WTT for fuelcards - diesel	Diesel	" 46,239 "		  0.61015	 28.21 	same as data that WTT relates to	n/a	Got
+3	Transport	Business travel	WTT for fuelcards -petrol	Petrol	 410 		  0.59344	 0.24 	same as data that WTT relates to	n/a	Got
+3	Transport	Business travel	WTT for petrol pool cars	Small Car?	" 11,396 "	miles	  0.06544	 0.75 	same as data that WTT relates to	n/a	Got
+3	Transport	Business travel	WTT for hybrid pool cars	Small Car?	 640 	miles	  0.04333	 0.03 	same as data that WTT relates to	n/a	Got
+3	Transport	Business travel	Business travel - air (incl WTT for air) - Domestic flights	"Credit card purchases + expenses claims. Number of flights taken by CCC members & employees on Council business, where to/from, dates and class of travel"	 -   	passenger.km	  0.27104 	0	Expenses claims? ERP invoices?		Got
+3	Transport	Business travel	Business travel - air (incl WTT for air) - Short-haul 	Credit card purchases + expenses claims	 -   	passenger.km	  0.17256 	 -   			Got
+3	Transport	Business travel	Business travel - air (incl WTT for air) - Long-haul	Credit card purchases + expenses claims	 -   	passenger.km	  0.21175 	 -   			Got
+3	Transport	Business travel	Business travel - air (inc WTT for air) - International	Credit card purchases + expenses claims	 -   	passenger.km	  0.20172 	 -   			Got
+3	Transport	Business travel	Business travel - sea (inc WTT for sea)	"Number of ferry trips taken by CCC members & employees on Council business, where to/from, dates and whether by car or on foot"	 -   	passenger.km		 -   	Expenses claims? ERP invoices?		Got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - own cars - unknown fuel	Miles travelled by CCC members and employees on Council business in their own cars - unknown fuel	" 3,029,010 "	miles	0.34694	" 1,050.88 "	Mileage claims system	IT	Got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - own cars - LPG	Miles travelled - LPG cars	 -   	miles	0.35673	 -   	Mileage claims system	IT	Partially got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - own cars - BEV	Miles travelled - Battery electric cars	 -   	miles	0.1049	 -   	Mileage claims system	IT	Partially got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - own cars - Hybrid	Miles travelled - Hybrid cars	 -   	miles	0.23379	 -   	Mileage claims system	IT	Partially got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - own cars - Diesel	Miles travelled - diesel cars	 -   	miles	0.33624	 -   	Mileage claims system	IT	Partially got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - own cars - petrol	Miles travelled - petrol cars	 -   	miles	0.35746	 -   	Mileage claims system	IT	Partially got
+3	Transport	Business travel	Business travel - land (inc WTT) - employee mileage - motorbikes	Miles travelled on CCC business on employees own motorbikes	 622 	miles	  0.2317 	 0.14 	Mileage claims system	IT	Got
+3	Transport	Business travel	Business travel - land (inc WTT) by train	train travel by procurement card - Miles travelled by CCC  + number of passengers 	" 3,399 "	passenger.km	  0.04418 	 0.15 	Expenses claims? ERP invoices?		Got
+3	Transport	Business travel	Business travel - land (inc WTT) by bus	bus travel by procurement card - Miles travelled by CCC  + number of passengers 	 -   	passenger.km	0.14822	0			Partially got
+3	Transport	Business travel	Business travel - land (inc WTT) by taxi	taxi travel by procurement card - Miles travelled by CCC  + number of passengers 	 627 	km	0.25274	 0.16 			Got
+3	Transport	Business travel	"Business travel - Hotel stays, UK"	"Hotel stays booked through credit card - Number of nights spent in in hotels on Council business by members or employees, plus which country and if UK, London or not London."	 141 	Rooms / nights	 15.7     	 2.21 	Expenses claims? ERP invoices?		Got
+3	Transport	Social and education transport	WTT for social & edu transport - diesel		" 13,398 "	litres	  0.61015	 8.17 	same as data that WTT relates to	n/a	Got
+3	Transport	Social and education transport	Social and education transport by volunteers (incl WTT)	mileage by volunteer drivers		miles	0.34694	 -   		Social & Education Transport	Missing
+3	Transport	Social and education transport	"Social and education transport by contractors, includes home to school"			kg CO2e		 -   		Social & Education Transport	Missing
+3	Transport	Highways	WTT for highways diesel 		" 103,530 "	litres	  0.61015	 63.17 	same as data that WTT relates to	n/a	Got
+3	Transport	Highways	WTT for red diesel		" 54,801 "	litres	  0.63253	 34.66 	same as data that WTT relates to	n/a	Got
+3	Transport	Highways	WTT for HVO		" 76,894 "	litres	0.28977	 22.28 	same as data that WTT relates to	n/a	Got
+Outside of scopes	Transport	Highways	Co2 from HVO biofuel		" 76,894 "	litres	  2.36    	 181.47 		Highways	Got
+3	Transport	Highways	WTT for highways petrol		" 3,450 "	litres	  0.59344	 2.05 	same as data that WTT relates to	n/a	Got
+3	Transport	Highways	Skanska employee mileage - diesel			miles	  0.3321  	 -   		Highways	Missing
+3	Transport	Highways	Skanska employee mileage - petrol			miles	  0.38267 	 -   		Highways	Missing
+3	Transport	Construction transport	Emissions from transport from capital projects	Construction emissions template returns from contractors	 226 	t CO2e	1000.0     	 225.89 		Education capital	Got
+3	Transport	Waste transport	Travel by Amey for CCC contract (incl WTT)	Litres of fuel used (diesel)		litres	  3.15618	 -   	Amey / Adam Smith	Waste team	Missing
+3	Transport	Public bus routes	Public transport - subsidised bus routes (incl WTT)	No of passengers and route distance	" 5,856,529 "	passenger.km	0.14822	 868.05 	Passenger numbers and route list	Paul Nelson	Got
+3	Transport	Employee commuting	Employee commuting - car	Miles travelled by employees commuting to work and back (incls WTT) - car	" 3,194,082 "	miles	0.34694	" 1,108.15 "	Staff travel survey		Partially got
+3	Transport	Employee commuting	Employee commuting - motorbike	Miles travelled by employees commuting to work and back (incls WTT) - motorbike	" 42,864 "	miles	  0.2317 	 9.93 	Staff travel survey		Partially got
+3	Transport	Employee commuting	Employee commuting - bus	Miles travelled by employees commuting to work and back (incls WTT) - bus	" 83,585 "	passenger.km	0.14822	 12.39 	Staff travel survey		Partially got
+3	Transport	Employee commuting	Employee commuting - train	Miles travelled by employees commuting to work and back (incls WTT) - train	" 197,889 "	passenger.km	0.04418	 8.74 	Staff travel survey		Partially got
+3	Transport	Employee commuting	Employee commuting - taxi	Miles travelled by employees commuting to work and back (incls WTT) - taxi	 -   	passenger.km	0.18053	 -   	Staff travel survey		Partially got
+3	Waste	CCC site waste	Waste disposal - refuse from CCC buildings (assumed to landfill)	"Quantity (tonnes) of waste disposed from CCC sites, type of waste (e.g. mixed refuse, food waste), and what happens to it (e.g. recycling, landfill, composting)"	 155 	tonnes	437.372	 67.85 	Facilities waste records	Property	Got
+3	Waste	CCC site waste	Waste disposal - mixed recycling from CCC buildings		 69 	tonnes	21.317	 1.47 	Facilities waste records	Property	Got
+3	Waste	CCC site waste	Waste disposal - confidential paper (recycled)		 23 	tonnes	21.317	 0.50 	Facilities waste records	Property	Got
+3	Waste	CCC site waste	Waste disposal - WEEE (assumed recycled)	"As above for WEEE - waste electrical equipment, and batteries"		tonnes	21.317	 -   	Facilities waste records	Property	Missing
+3	Waste	CCC site waste	Waste disposal - general waste from skip (need to check what happens to this)		 19.860 	tonnes	21.317	 0.42 	Facilities waste records	Property	Got
+3	Waste	CCC site waste	Waste disposal - green waste from grounds maintenance		 1.079 	tonnes	10.204	 0.01 	Facilities waste records	Property	Got
+3	Waste	Construction waste	Waste disposal - construction waste	as above for construction waste. Plus any other waste streams	 32 	tCO2e	1000.0    	 32.32 			Got
+3	Waste	Asbestos disposal	Waste disposal - asbestos	Volume of asbestos disposed for CCC by our specialist contractors		tonnes	5.928	 -   		Property	Missing
+3	Waste	County waste disposal - landfill	Waste treatment for Cambs waste	Volume of Cambridgeshire waste that CCC is responsible for processing	" 31,989.29 "	t CO2e	1000.0    	" 31,989.29 "		Waste team	Got
+3	Waste	County waste disposal -composting	composting	emissions from composting	" 7,202 "	t CO2e	1000.0    	" 7,202.36 "		Waste team	Got
+3	Waste	County waste disposal - landfill	Landfill gas from closed landfill sites	"LFG for 6x sites:
+Connington 
+Godmanchester
+Haddenham 
+Stanground
+Thriplow
+Woodston"	 -   	tonnes		 -   		Waste team	Partially got
+Outside of scopes	Waste	County waste disposal - landfill	Waste treatment for Cambs waste	CO2 emissions from landfill gas (biogenic carbon)				 -   		Waste team	Missing
+3	Waste	Highways waste	Tonnes of waste OR tCO2e		 26 	tCO2e	1000.0    	 26.10 		Highways	Got
+3	Construction materials	Construction / building works materials	Material use	"various - materials purchased template - Quantity (tonnes) and type of each material purchased e.g. aggregates, asphalt, bricks, concrete, insulation, metals, soils, wood)"	" 4,979 "	tCO2e	1000.0    	" 4,978.73 "		Education capital	Got
+3	Highways materials	Highways materials	Material use	various - materials purchased	" 11,980 "	tCO2e	1000.0    	" 11,979.79 "	Milestone report	Highways	Got
+3	Other	IT hardware	Items purchased from Dell	Carbon footprint info from supplier combined with info on quantities CCC purchased		units		 -   		IT	Missing
+3	Other	Paper		Paper and board: paper (from primary sources) - quantity (tonnes) purchased		tonnes		 -   			Missing
+3	Agriculture	Livestock farming	County farms - livestock	Farm types and number of animals. 	 324 	kg CO2e	1000.0    	 323.83 		Rural Estates	Got
+3	Agriculture	Arable farming	County farms - cropland	Area of land owned and proportions what used for	" 14,187 "	kg CO2e	1000.0    	" 14,186.88 "		Rural Estates	Got
+3	"Land use, land use change and forestry"	CO2 emissions from LULUCF	"Land owned - cropland, wetlands and settlements"	Area of land owned and proportions what used for	" 25,500 "	Tonnes CO2e	1000	" 25,499.75 "		Strategic assets + Rural estates	Got
+3	"Land use, land use change and forestry"	CO2 removals from LULUCF	Land owned - forestland and grassland	Area of land owned and proportions what used for	"-1,009 "	Tonnes CO2e	1000	"-1,009.40 "		Strategic assets + Rural estates	Got
